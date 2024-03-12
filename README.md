@@ -1,2 +1,1 @@
 # Sevam
-print("456")
